@@ -1,0 +1,41 @@
+.page .header.py-4 {
+  background-color: rgb(6, 103, 208) !important;
+}
+
+#root
+  > div
+  > div.header.py-4
+  > div
+  > div
+  > div
+  > div:nth-child(2)
+  > a
+  > span.ml-2.d-none.d-lg-block
+  > span,
+#root > div > div.header.py-4 > div > div > div > div.dropdown.d-flex > a,
+#root
+  > div
+  > div.header.py-4
+  > div
+  > div
+  > div
+  > div:nth-child(2)
+  > a
+  > span.ml-2.d-none.d-lg-block
+  > small,
+#root
+  > div
+  > div.header.py-4
+  > div
+  > div
+  > a.header-toggler.d-lg-none.ml-3.ml-lg-0 {
+  color: white !important;
+}
+
+.nav.nav-tabs .nav-item a.nav-link {
+  color: #9faec5 !important;
+}
+
+.nav.nav-tabs .nav-item a.nav-link:hover {
+  color: #34495e !important;
+}
