@@ -3,7 +3,7 @@ import { Loader, Grid } from "tabler-react";
 import { PageWrapper } from "../PageWrapper";
 
 const Loading = () => (
-  <PageWrapper title="">
+  <PageWrapper>
     <Grid.Row>
       <Grid.Col auto width={12} offset={6}>
         <Loader />

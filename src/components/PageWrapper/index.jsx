@@ -7,7 +7,7 @@ const PageWrapper = ({ children, title }) => (
 );
 
 PageWrapper.defaultProps = {
-  title: "Dashboard"
+  title: ""
 };
 
 PageWrapper.propTypes = {
