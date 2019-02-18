@@ -23,7 +23,7 @@ TopHeader.defaultProps = {
   logoUrl: HEADER.LOGO_URL,
   userAvatar: HEADER.USER_AVATAR,
   userName: HEADER.USER_NAME,
-  notifications: HEADER.NOTIFICATIONS
+  notifications: []
 };
 
 TopHeader.propTypes = {
