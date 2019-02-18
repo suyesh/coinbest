@@ -1,5 +1,4 @@
 import React from "react";
-import Sezal from "../assets/img/sezal.jpg";
 
 export const HEADER = {
   LOGO_URL:

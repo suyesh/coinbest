@@ -1,5 +1,6 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
+import withLayout from "../lib/withLayout";
 import Pages from "../Pages";
 import { MAIN_ROUTES } from "../constants";
 
@@ -9,4 +10,4 @@ const Routes = () => (
   </Switch>
 );
 
-export default Routes;
+export default withLayout(Routes);
