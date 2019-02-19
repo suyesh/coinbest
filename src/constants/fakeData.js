@@ -3,8 +3,8 @@ import React from "react";
 export const HEADER = {
   LOGO_URL:
     "https://www.coinbase.com/assets/press/coinbase-logos/coinbase-white-a16d0d1ae86bcb6058884d2f18e4e86034206ac0ad094c42c37594516d33cf0b.png",
-  USER_AVATAR: "https://avatars1.githubusercontent.com/u/2584130?s=400&v=4",
-  USER_NAME: "Carlos Castillo",
+  USER_AVATAR: "https://avatars3.githubusercontent.com/u/8418861?s=400&v=4",
+  USER_NAME: "Karthik Namburu",
   NOTIFICATIONS: [
     {
       avatarURL: "demo/faces/male/41.jpg",
